@@ -109,3 +109,4 @@ venv.bak/
 data/
 notebooks/AutoML_**/
 pdf/
+img/
