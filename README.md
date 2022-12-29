@@ -1,12 +1,12 @@
 # Gene of the Day Bot
 
-A Mastodon bot that tweets the official* gene of the day.
+A Mastodon bot that tweets the official* gene of the day. Currently live on [Mastodon](https://botsin.space/@gene_of_the_day)!
 
-*According to numpy's random number generator.
+*_According to numpy's random number generator._
 
 ## Example post:
 
-<img src='img/example_post.png' height="900">
+<img src='img/example_post.png' height="600">
 
 ### Data versions:
 PDB data current as of: Dec 28, 2022\
