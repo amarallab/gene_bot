@@ -107,8 +107,4 @@ venv.bak/
 
 # project-specific files
 data/
-notebooks/AutoML_**/
-pdf/
-/img/
-!/img/example_post.png
 token.secret
