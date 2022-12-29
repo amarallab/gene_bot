@@ -2,6 +2,12 @@
 
 A Mastodon bot that tweets the official* gene of the day. Currently live on [Mastodon](https://botsin.space/@gene_of_the_day)!
 
+This bot runs every morning on a raspberry pi via a cron job:
+
+```
+0 8 * * * cd ~/Documents/gene_bot/src && /usr/bin/python3 ~/Documents/gene_bot/src/build_bot.py
+```
+
 *_According to numpy's random number generator._
 
 ## Example post:
