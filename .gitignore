@@ -109,6 +109,6 @@ venv.bak/
 data/
 notebooks/AutoML_**/
 pdf/
-img/
+/img/
 !/img/example_post.png
 token.secret
