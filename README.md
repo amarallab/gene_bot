@@ -1,5 +1,7 @@
 # Gene of the Day Bot
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 A Mastodon bot that tweets the official* gene of the day. Currently live on [Mastodon](https://botsin.space/@gene_of_the_day)!
 
 This bot runs every morning on a raspberry pi via a cron job:
